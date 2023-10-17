@@ -14,7 +14,7 @@
 <br>
 <div>
   <a href="https://github.com/lucasshira">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasshira&theme=swift" width="800" height="300" alt="Marcador 1">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasshira&theme=apprentice" width="800" height="200" alt="Marcador 1">
 </div>
 
 ## Contact
