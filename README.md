@@ -14,8 +14,7 @@
 <br>
 <div>
   <a href="https://github.com/lucasshira">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasshira&layout=compact&langs_count=7&theme=dark"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasshira&show_icons=true&theme=dark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasshira&theme=swift" width="700" height="200" alt="Marcador 1">
 </div>
 
 ## Contact
