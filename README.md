@@ -1,7 +1,7 @@
 <h3>About Me</h3>
 
 - Hi, I’m Lucas Gabriel Shirabayashi de Azevedo 👋
-- I'm currently studying JavaScript 🖥️
+- I'm currently studying JavaScript and Node.js 🖥️
 - I'm interested in personal development, music and programming 📚
 - My favorite movie is: "2001: A Space Odyssey" 🎥
 - I have intermediate English 🇺🇸
