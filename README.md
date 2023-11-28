@@ -1,10 +1,9 @@
-<h3>About Me</h3>
+<h3>Hi! I'm Lucas Gabriel Shirabayashi de Azevedo.</h3>
 
-- Hi, I’m Lucas Gabriel Shirabayashi de Azevedo 👋
-- I'm currently studying JavaScript and Node.js 🖥️
+- I'm currently studying a degree in Systems Analysis 🖥️
+- JavaScript and Node.js ☕
 - I'm interested in personal development, music and programming 📚
 - My favorite movie is: "2001: A Space Odyssey" 🎥
-- I have intermediate English 🇺🇸
 
 ![](https://komarev.com/ghpvc/?username=lucasshira&color=blue)
 
