@@ -7,7 +7,7 @@
 
 ![](https://komarev.com/ghpvc/?username=lucasshira&color=blue)
 
-<h3 align="left">I code with:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 ###
 
