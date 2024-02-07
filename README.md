@@ -12,6 +12,12 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasshira&theme=apprentice" width="800" height="200" alt="Marcador 1">
 </div>
 
+##
+
+### 📧 My contacts
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lvcasgabriel/)
+<a href = "mailto:lucas.shirabayashi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   ### ⚒️ My Stack
 -   _**Languages**_
@@ -62,8 +68,3 @@
     </p>
 
 ##
-
-### 📧 My Contacts
-
-<br>[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lvcasgabriel/)
-<a href = "mailto:lucas.shirabayashi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
