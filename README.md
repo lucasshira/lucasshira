@@ -26,6 +26,7 @@
       <img alt="HTML 5" src="https://img.shields.io/static/v1?message=HTML5&logo=HTML5&labelColor=E34F26&color=E34F26&logoColor=white&label=%20&style=for-the-badge">
       <img alt="CSS 3" src="https://img.shields.io/static/v1?message=CSS3&logo=CSS3&  labelColor=2072B6&color=2072B6&logoColor=white&label=%20&style=for-the-badge">
       <img alt="JavaScript" src="https://img.shields.io/static/v1?message=JavaScript&logo=JavaScript&labelColor=F7DF1E&color=F7DF1E&logoColor=black&label=%20&style=for-the-badge">
+      <img alt="TypeScript" src="https://img.shields.io/static/v1?message=TypeScript&logo=TypeScript&labelColor=3178C6&color=3178C6&logoColor=white&label=%20&style=for-the-badge">
       <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     </p>
 
@@ -35,7 +36,6 @@
       <img height="28em" alt="Next.js" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
       <img height="28em" alt="Styled-Components" src="https://img.shields.io/static/v1?message=styled-components&logo=styled-components&labelColor=DB7093&color=DB7093&logoColor=white&label=%20&style=for-the-badge">
       <img height="28em" alt="Tailwind-CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-      <img height="28em" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
       <img height="28em" alt="Webpack" src="https://img.shields.io/static/v1?message=Webpack&logo=Webpack&labelColor=8DD6F9&color=8DD6F9&logoColor=4E4E4E&label=%20&style=for-the-badge">
     </p>
 
