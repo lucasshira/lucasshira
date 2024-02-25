@@ -1,7 +1,7 @@
 <h3>Hi! I'm Lucas Gabriel Shirabayashi de Azevedo.</h3>
 
 - I'm currently studying a degree in Systems Analysis 🖥️
-- React.js, Node.js and a lot of effort put in ☕
+- JavaScript, TypeScript, React.js and Node.js ☕
 - I'm interested in personal development, music and programming 📚
 - My favorite movie is: "2001: A Space Odyssey" 🎥
 
