@@ -35,6 +35,7 @@
       <img height="28em" alt="React" src="https://img.shields.io/static/v1?message=ReactJs&logo=react&labelColor=61DAFB&color=61DAFB&logoColor=black&label=%20&style=for-the-badge">
       <img height="28em" alt="Next.js" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
       <img height="28em" alt="Styled-Components" src="https://img.shields.io/static/v1?message=styled-components&logo=styled-components&labelColor=DB7093&color=DB7093&logoColor=white&label=%20&style=for-the-badge">
+      <img height="28em" alt="Svelte" src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00">
       <img height="28em" alt="Tailwind-CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
       <img height="28em" alt="Webpack" src="https://img.shields.io/static/v1?message=Webpack&logo=Webpack&labelColor=8DD6F9&color=8DD6F9&logoColor=4E4E4E&label=%20&style=for-the-badge">
     </p>
