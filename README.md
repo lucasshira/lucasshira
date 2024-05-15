@@ -35,7 +35,6 @@
       <img height="28em" alt="React" src="https://img.shields.io/static/v1?message=ReactJs&logo=react&labelColor=61DAFB&color=61DAFB&logoColor=black&label=%20&style=for-the-badge">
       <img height="28em" alt="Next.js" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
       <img height="28em" alt="Styled-Components" src="https://img.shields.io/static/v1?message=styled-components&logo=styled-components&labelColor=DB7093&color=DB7093&logoColor=white&label=%20&style=for-the-badge">
-      <img height="28em" alt="Svelte" src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00">
       <img height="28em" alt="Tailwind-CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
       <img height="28em" alt="Webpack" src="https://img.shields.io/static/v1?message=Webpack&logo=Webpack&labelColor=8DD6F9&color=8DD6F9&logoColor=4E4E4E&label=%20&style=for-the-badge">
     </p>
@@ -44,31 +43,38 @@
     <p>
       <img alt="Node.js" src="https://img.shields.io/static/v1?message=Node.js&logo=Node.js&labelColor=339933&color=339933&logoColor=white&label=%20&style=for-the-badge">
       <img alt="Express" src="https://img.shields.io/static/v1?message=Express&logo=Express&labelColor=000000&color=000000&logoColor=white&label=%20&style=for-the-badge">
-      <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+      <img alt="Prisma" src="https://img.shields.io/static/v1?message=Prisma&logo=Prisma&labelColor=2D3748&color=2D3748&logoColor=white&label=%20&style=for-the-badge">
     </p>
 
 -   _**Databases**_
     <p>
-      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+      <img alt="PostgreSQL" src="https://img.shields.io/static/v1?message=PostgreSQL&logo=PostgreSQL&labelColor=4169E1&color=4169E1&logoColor=white&label=%20&style=for-the-badge">
       <img alt="MongoDB" src="https://img.shields.io/static/v1?message=MongoDB&logo=MongoDB&labelColor=47A248&color=47A248&logoColor=white&label=%20&style=for-the-badge">
     </p>
 
- -   _**Linters**_
+  -  _**Dev-ops**_
     <p>
-      <img alt="Eslint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
-      <img alt="Prettier" src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E">
+      <img alt="Docker" src="https://img.shields.io/static/v1?message=Docker&logo=Docker&labelColor=2496ED&color=2496ED&logoColor=white&label=%20&style=for-the-badge">
+    </p>
+
+-   _**Deploy**_
+    <p>
+      <img alt="Render" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white">
+      <img alt="Vercel" src="https://img.shields.io/static/v1?message=Vercel&logo=Vercel&labelColor=000000&color=000000&logoColor=white&label=%20&style=for-the-badge">
     </p>
 
 -   _**Tools**_
     <p>
     <img alt="Git" src="https://img.shields.io/static/v1?message=Git&logo=Git&labelColor=F05032&color=F05032&logoColor=white&label=%20&style=for-the-badge">
     <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+    <img alt="Slack" src="https://img.shields.io/static/v1?message=Slack&logo=Slack&labelColor=4A204B&color=4A204B&logoColor=white&label=%20&style=for-the-badge">
     <img alt="Visual Studio Code" src="https://img.shields.io/static/v1?message=Visual Studio Code&logo=Visual Studio Code&labelColor=007ACC&color=007ACC&logoColor=white&label=%20&style=for-the-badge">
     </p>
 
 -   _**OS**_
     <p>
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+      <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+      <img alt="Linux" src="https://img.shields.io/static/v1?message=Linux&logo=Linux&labelColor=FCC624&color=FCC624&logoColor=black&label=%20&style=for-the-badge">
     </p>
 
 ##
