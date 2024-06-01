@@ -5,7 +5,7 @@
 - I'm interested in personal development, music and programming 📚
 - My favorite movie is: "2001: A Space Odyssey" 🎥
 
-![](https://komarev.com/ghpvc/?username=lucasshira&color=blue)
+![](https://komarev.com/ghpvc/?username=lucasshira&color=green)
 
 <div>
   <a href="https://github.com/lucasshira">
