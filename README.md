@@ -52,6 +52,11 @@
       <img alt="MongoDB" src="https://img.shields.io/static/v1?message=MongoDB&logo=MongoDB&labelColor=47A248&color=47A248&logoColor=white&label=%20&style=for-the-badge">
     </p>
 
+  -   _**Tests**_
+    <p>
+      <img alt="Cypress" src="https://img.shields.io/static/v1?message=Cypress&logo=Cypress&labelColor=17202C&color=17202C&logoColor=white&label=%20&style=for-the-badge">
+    </p>
+
   -  _**Dev-ops**_
     <p>
       <img alt="Docker" src="https://img.shields.io/static/v1?message=Docker&logo=Docker&labelColor=2496ED&color=2496ED&logoColor=white&label=%20&style=for-the-badge">
