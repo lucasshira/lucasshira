@@ -12,7 +12,13 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasshira&theme=apprentice" width="800" height="200" alt="Marcador 1">
 </div>
 
-##
+### 🕛 Wakatime
+
+<div align="left">
+
+  [![wakatime](https://wakatime.com/badge/user/8ef78d92-3464-4524-98c8-de0d0e652fec.svg)](https://wakatime.com/@8ef78d92-3464-4524-98c8-de0d0e652fec)
+  
+</div>
 
 ### 📧 My contacts
 
