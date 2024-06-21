@@ -1,8 +1,8 @@
 <h3>Hi! I'm Lucas Gabriel Shirabayashi de Azevedo.</h3>
 
-- I'm currently studying a degree in Systems Analysis 🖥️
+- I'm currently studying a degree in Systems Analysis 📚
 - JavaScript, TypeScript, React.js and Node.js ☕
-- Passionate about solving real-world challenges with code 📚
+- Passionate about solving real-world challenges with code 💻
 - My favorite movie is: "2001: A Space Odyssey" 🎥
 
 ![](https://komarev.com/ghpvc/?username=lucasshira&color=blue)
