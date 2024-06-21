@@ -2,7 +2,7 @@
 
 - I'm currently studying a degree in Systems Analysis 🖥️
 - JavaScript, TypeScript, React.js and Node.js ☕
-- I'm interested in personal development, music and programming 📚
+- Passionate about solving real-world challenges with code 📚
 - My favorite movie is: "2001: A Space Odyssey" 🎥
 
 ![](https://komarev.com/ghpvc/?username=lucasshira&color=blue)
