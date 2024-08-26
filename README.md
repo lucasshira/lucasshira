@@ -60,6 +60,7 @@
 
   -   _**Tests**_
     <p>
+      <img alt="Jest" src="https://img.shields.io/static/v1?message=Jest&logo=jest&labelColor=C21320&color=C21320&logoColor=white&label=%20&style=for-the-badge">
       <img alt="Cypress" src="https://img.shields.io/static/v1?message=Cypress&logo=Cypress&labelColor=17202C&color=17202C&logoColor=white&label=%20&style=for-the-badge">
     </p>
 
@@ -77,8 +78,9 @@
 -   _**Tools**_
     <p>
     <img alt="Git" src="https://img.shields.io/static/v1?message=Git&logo=Git&labelColor=F05032&color=F05032&logoColor=white&label=%20&style=for-the-badge">
-    <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
     <img alt="Slack" src="https://img.shields.io/static/v1?message=Slack&logo=Slack&labelColor=4A204B&color=4A204B&logoColor=white&label=%20&style=for-the-badge">
+    <img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
     <img alt="Visual Studio Code" src="https://img.shields.io/static/v1?message=Visual Studio Code&logo=Visual Studio Code&labelColor=007ACC&color=007ACC&logoColor=white&label=%20&style=for-the-badge">
     </p>
 
