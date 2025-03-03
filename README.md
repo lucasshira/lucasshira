@@ -40,6 +40,7 @@
     <p>
       <img height="28em" alt="React" src="https://img.shields.io/static/v1?message=ReactJs&logo=react&labelColor=61DAFB&color=61DAFB&logoColor=black&label=%20&style=for-the-badge">
       <img height="28em" alt="Next.js" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+      <img height="28em" alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
       <img height="28em" alt="Styled-Components" src="https://img.shields.io/static/v1?message=styled-components&logo=styled-components&labelColor=DB7093&color=DB7093&logoColor=white&label=%20&style=for-the-badge">
       <img height="28em" alt="Tailwind-CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
       <img height="28em" alt="Webpack" src="https://img.shields.io/static/v1?message=Webpack&logo=Webpack&labelColor=8DD6F9&color=8DD6F9&logoColor=4E4E4E&label=%20&style=for-the-badge">
@@ -49,6 +50,7 @@
     <p>
       <img alt="Node.js" src="https://img.shields.io/static/v1?message=Node.js&logo=Node.js&labelColor=339933&color=339933&logoColor=white&label=%20&style=for-the-badge">
       <img alt="Express" src="https://img.shields.io/static/v1?message=Express&logo=Express&labelColor=000000&color=000000&logoColor=white&label=%20&style=for-the-badge">
+      <img alt="Fastify" src="https://img.shields.io/static/v1?message=Fastify&logo=Fastify&labelColor=000000&color=000000&logoColor=white&label=%20&style=for-the-badge">
       <img alt="Prisma" src="https://img.shields.io/static/v1?message=Prisma&logo=Prisma&labelColor=2D3748&color=2D3748&logoColor=white&label=%20&style=for-the-badge">
       <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
     </p>
@@ -63,6 +65,7 @@
     <p>
       <img alt="Jest" src="https://img.shields.io/static/v1?message=Jest&logo=jest&labelColor=C21320&color=C21320&logoColor=white&label=%20&style=for-the-badge">
       <img alt="Cypress" src="https://img.shields.io/static/v1?message=Cypress&logo=Cypress&labelColor=17202C&color=17202C&logoColor=white&label=%20&style=for-the-badge">
+      <img alt="Playwright" src="https://img.shields.io/static/v1?message=Playwright&logo=Playwright&labelColor=black&color=black&logoColor=white&label=%20&style=for-the-badge">
     </p>
 
   -  _**Dev-ops**_
