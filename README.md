@@ -52,6 +52,7 @@
       <img alt="Express" src="https://img.shields.io/static/v1?message=Express&logo=Express&labelColor=000000&color=000000&logoColor=white&label=%20&style=for-the-badge">
       <img alt="Fastify" src="https://img.shields.io/static/v1?message=Fastify&logo=Fastify&labelColor=000000&color=000000&logoColor=white&label=%20&style=for-the-badge">
       <img alt="Prisma" src="https://img.shields.io/static/v1?message=Prisma&logo=Prisma&labelColor=2D3748&color=2D3748&logoColor=white&label=%20&style=for-the-badge">
+      <img alt="Spring" src="https://img.shields.io/static/v1?message=Spring&logo=Spring&labelColor=339933&color=339933&logoColor=white&label=%20&style=for-the-badge">
       <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
     </p>
 
