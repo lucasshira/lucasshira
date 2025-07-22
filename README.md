@@ -30,7 +30,7 @@
 -   _**Languages**_
     <p>
       <img alt="HTML 5" src="https://img.shields.io/static/v1?message=HTML5&logo=HTML5&labelColor=E34F26&color=E34F26&logoColor=white&label=%20&style=for-the-badge">
-      <img alt="CSS 3" src="https://img.shields.io/static/v1?message=CSS3&logo=CSS3&  labelColor=2072B6&color=2072B6&logoColor=white&label=%20&style=for-the-badge">
+      <img alt="CSS 3" src="https://img.shields.io/static/v1?message=CSS3&logo=CSS3&labelColor=2072B6&color=2072B6&logoColor=white&label=%20&style=for-the-badge">
       <img alt="JavaScript" src="https://img.shields.io/static/v1?message=JavaScript&logo=JavaScript&labelColor=F7DF1E&color=F7DF1E&logoColor=black&label=%20&style=for-the-badge">
       <img alt="TypeScript" src="https://img.shields.io/static/v1?message=TypeScript&logo=TypeScript&labelColor=3178C6&color=3178C6&logoColor=white&label=%20&style=for-the-badge">
       <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -82,11 +82,11 @@
 
 -   _**Tools**_
     <p>
-    <img alt="Git" src="https://img.shields.io/static/v1?message=Git&logo=Git&labelColor=F05032&color=F05032&logoColor=white&label=%20&style=for-the-badge">
-    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-    <img alt="Slack" src="https://img.shields.io/static/v1?message=Slack&logo=Slack&labelColor=4A204B&color=4A204B&logoColor=white&label=%20&style=for-the-badge">
-    <img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
-    <img alt="Visual Studio Code" src="https://img.shields.io/static/v1?message=Visual Studio Code&logo=Visual Studio Code&labelColor=007ACC&color=007ACC&logoColor=white&label=%20&style=for-the-badge">
+      <img alt="Git" src="https://img.shields.io/static/v1?message=Git&logo=Git&labelColor=F05032&color=F05032&logoColor=white&label=%20&style=for-the-badge">
+      <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+      <img alt="Slack" src="https://img.shields.io/static/v1?message=Slack&logo=Slack&labelColor=4A204B&color=4A204B&logoColor=white&label=%20&style=for-the-badge">
+      <img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
+      <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
     </p>
 
 -   _**OS**_
