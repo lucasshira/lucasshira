@@ -34,6 +34,7 @@
       <img alt="JavaScript" src="https://img.shields.io/static/v1?message=JavaScript&logo=JavaScript&labelColor=F7DF1E&color=F7DF1E&logoColor=black&label=%20&style=for-the-badge">
       <img alt="TypeScript" src="https://img.shields.io/static/v1?message=TypeScript&logo=TypeScript&labelColor=3178C6&color=3178C6&logoColor=white&label=%20&style=for-the-badge">
       <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+      <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
     </p>
 
 -   _**Front-end**_
@@ -41,7 +42,7 @@
       <img height="28em" alt="React" src="https://img.shields.io/static/v1?message=ReactJs&logo=react&labelColor=61DAFB&color=61DAFB&logoColor=black&label=%20&style=for-the-badge">
       <img height="28em" alt="Next.js" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
       <img height="28em" alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-      <img height="28em" alt="Styled-Components" src="https://img.shields.io/static/v1?message=styled-components&logo=styled-components&labelColor=DB7093&color=DB7093&logoColor=white&label=%20&style=for-the-badge">
+      <img height="28em" alt="Styled-Components" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
       <img height="28em" alt="Tailwind-CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
       <img height="28em" alt="Webpack" src="https://img.shields.io/static/v1?message=Webpack&logo=Webpack&labelColor=8DD6F9&color=8DD6F9&logoColor=4E4E4E&label=%20&style=for-the-badge">
     </p>
@@ -53,18 +54,20 @@
       <img alt="Fastify" src="https://img.shields.io/static/v1?message=Fastify&logo=Fastify&labelColor=000000&color=000000&logoColor=white&label=%20&style=for-the-badge">
       <img alt="Prisma" src="https://img.shields.io/static/v1?message=Prisma&logo=Prisma&labelColor=2D3748&color=2D3748&logoColor=white&label=%20&style=for-the-badge">
       <img alt="Spring" src="https://img.shields.io/static/v1?message=Spring&logo=Spring&labelColor=339933&color=339933&logoColor=white&label=%20&style=for-the-badge">
-      <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+      <img alt="Django Rest" src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white">
     </p>
 
 -   _**Databases**_
     <p>
       <img alt="PostgreSQL" src="https://img.shields.io/static/v1?message=PostgreSQL&logo=PostgreSQL&labelColor=4169E1&color=4169E1&logoColor=white&label=%20&style=for-the-badge">
       <img alt="MongoDB" src="https://img.shields.io/static/v1?message=MongoDB&logo=MongoDB&labelColor=47A248&color=47A248&logoColor=white&label=%20&style=for-the-badge">
+      <img alt="SQLite" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
     </p>
 
   -   _**Tests**_
     <p>
       <img alt="Jest" src="https://img.shields.io/static/v1?message=Jest&logo=jest&labelColor=C21320&color=C21320&logoColor=white&label=%20&style=for-the-badge">
+      <img alt="Vitest" src="https://img.shields.io/badge/Vitest-%236E9F18?style=for-the-badge&logo=Vitest&logoColor=%23fcd703">
       <img alt="Cypress" src="https://img.shields.io/static/v1?message=Cypress&logo=Cypress&labelColor=17202C&color=17202C&logoColor=white&label=%20&style=for-the-badge">
       <img alt="Playwright" src="https://img.shields.io/static/v1?message=Playwright&logo=Playwright&labelColor=black&color=black&logoColor=white&label=%20&style=for-the-badge">
     </p>
@@ -72,6 +75,7 @@
   -  _**Dev-ops**_
     <p>
       <img alt="Docker" src="https://img.shields.io/static/v1?message=Docker&logo=Docker&labelColor=2496ED&color=2496ED&logoColor=white&label=%20&style=for-the-badge">
+      <img alt="AWS" src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white">
     </p>
 
 -   _**Deploy**_
