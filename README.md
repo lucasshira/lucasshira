@@ -76,6 +76,7 @@
     <p>
       <img alt="Docker" src="https://img.shields.io/static/v1?message=Docker&logo=Docker&labelColor=2496ED&color=2496ED&logoColor=white&label=%20&style=for-the-badge">
       <img alt="AWS" src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+      <img alt="Github Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
     </p>
 
 -   _**Deploy**_
